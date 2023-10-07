@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
         <Navbar />
+        <h1>Testando pull</h1>
       
     </div>
   );
